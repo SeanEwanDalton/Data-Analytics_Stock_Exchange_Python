@@ -1,4 +1,4 @@
-# Stock_Exchange_Python_Data_Visualisation
+# Data Analytics - Stock Exchange Python
 
 Analysis on stock data from Kaggle using Google Colaboratory and Python!
 
