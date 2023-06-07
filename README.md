@@ -1,4 +1,4 @@
 # Data Analytics - Stock Exchange Python
 
-Analysis on stock data from Kaggle using Google Colaboratory and Python!
+Linear regression machine learning and analytics on stock prices of N225 from 1965-2010!
 
